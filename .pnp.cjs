@@ -42,7 +42,7 @@ const RAW_RUNTIME_STATE =
           ["class-variance-authority", "npm:0.7.1"],\
           ["clsx", "npm:2.1.1"],\
           ["eslint", "virtual:6104be983b76619d54186394ccaa49c06ea5c28133e0e838e3df8e594378659dc739e7ddc03dfa70427a173ac062a8c9c7ff391b2885a9cfd8ff699fb6165a36#npm:9.21.0"],\
-          ["eslint-plugin-react-hooks", "virtual:6104be983b76619d54186394ccaa49c06ea5c28133e0e838e3df8e594378659dc739e7ddc03dfa70427a173ac062a8c9c7ff391b2885a9cfd8ff699fb6165a36#npm:4.6.2"],\
+          ["eslint-plugin-react-hooks", "virtual:6104be983b76619d54186394ccaa49c06ea5c28133e0e838e3df8e594378659dc739e7ddc03dfa70427a173ac062a8c9c7ff391b2885a9cfd8ff699fb6165a36#npm:5.2.0"],\
           ["eslint-plugin-react-refresh", "virtual:6104be983b76619d54186394ccaa49c06ea5c28133e0e838e3df8e594378659dc739e7ddc03dfa70427a173ac062a8c9c7ff391b2885a9cfd8ff699fb6165a36#npm:0.4.19"],\
           ["globals", "npm:15.15.0"],\
           ["lucide-react", "virtual:6104be983b76619d54186394ccaa49c06ea5c28133e0e838e3df8e594378659dc739e7ddc03dfa70427a173ac062a8c9c7ff391b2885a9cfd8ff699fb6165a36#npm:0.460.0"],\
@@ -5431,17 +5431,17 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["eslint-plugin-react-hooks", [\
-      ["npm:4.6.2", {\
-        "packageLocation": "../../../.yarn/berry/cache/eslint-plugin-react-hooks-npm-4.6.2-05bc129286-10c0.zip/node_modules/eslint-plugin-react-hooks/",\
+      ["npm:5.2.0", {\
+        "packageLocation": "../../../.yarn/berry/cache/eslint-plugin-react-hooks-npm-5.2.0-1c4af50caf-10c0.zip/node_modules/eslint-plugin-react-hooks/",\
         "packageDependencies": [\
-          ["eslint-plugin-react-hooks", "npm:4.6.2"]\
+          ["eslint-plugin-react-hooks", "npm:5.2.0"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:6104be983b76619d54186394ccaa49c06ea5c28133e0e838e3df8e594378659dc739e7ddc03dfa70427a173ac062a8c9c7ff391b2885a9cfd8ff699fb6165a36#npm:4.6.2", {\
-        "packageLocation": "./.yarn/__virtual__/eslint-plugin-react-hooks-virtual-834fddea8d/4/.yarn/berry/cache/eslint-plugin-react-hooks-npm-4.6.2-05bc129286-10c0.zip/node_modules/eslint-plugin-react-hooks/",\
+      ["virtual:6104be983b76619d54186394ccaa49c06ea5c28133e0e838e3df8e594378659dc739e7ddc03dfa70427a173ac062a8c9c7ff391b2885a9cfd8ff699fb6165a36#npm:5.2.0", {\
+        "packageLocation": "./.yarn/__virtual__/eslint-plugin-react-hooks-virtual-a28cae5a2d/4/.yarn/berry/cache/eslint-plugin-react-hooks-npm-5.2.0-1c4af50caf-10c0.zip/node_modules/eslint-plugin-react-hooks/",\
         "packageDependencies": [\
-          ["eslint-plugin-react-hooks", "virtual:6104be983b76619d54186394ccaa49c06ea5c28133e0e838e3df8e594378659dc739e7ddc03dfa70427a173ac062a8c9c7ff391b2885a9cfd8ff699fb6165a36#npm:4.6.2"],\
+          ["eslint-plugin-react-hooks", "virtual:6104be983b76619d54186394ccaa49c06ea5c28133e0e838e3df8e594378659dc739e7ddc03dfa70427a173ac062a8c9c7ff391b2885a9cfd8ff699fb6165a36#npm:5.2.0"],\
           ["@types/eslint", null],\
           ["eslint", "virtual:6104be983b76619d54186394ccaa49c06ea5c28133e0e838e3df8e594378659dc739e7ddc03dfa70427a173ac062a8c9c7ff391b2885a9cfd8ff699fb6165a36#npm:9.21.0"]\
         ],\
@@ -6249,7 +6249,7 @@ const RAW_RUNTIME_STATE =
           ["class-variance-authority", "npm:0.7.1"],\
           ["clsx", "npm:2.1.1"],\
           ["eslint", "virtual:6104be983b76619d54186394ccaa49c06ea5c28133e0e838e3df8e594378659dc739e7ddc03dfa70427a173ac062a8c9c7ff391b2885a9cfd8ff699fb6165a36#npm:9.21.0"],\
-          ["eslint-plugin-react-hooks", "virtual:6104be983b76619d54186394ccaa49c06ea5c28133e0e838e3df8e594378659dc739e7ddc03dfa70427a173ac062a8c9c7ff391b2885a9cfd8ff699fb6165a36#npm:4.6.2"],\
+          ["eslint-plugin-react-hooks", "virtual:6104be983b76619d54186394ccaa49c06ea5c28133e0e838e3df8e594378659dc739e7ddc03dfa70427a173ac062a8c9c7ff391b2885a9cfd8ff699fb6165a36#npm:5.2.0"],\
           ["eslint-plugin-react-refresh", "virtual:6104be983b76619d54186394ccaa49c06ea5c28133e0e838e3df8e594378659dc739e7ddc03dfa70427a173ac062a8c9c7ff391b2885a9cfd8ff699fb6165a36#npm:0.4.19"],\
           ["globals", "npm:15.15.0"],\
           ["lucide-react", "virtual:6104be983b76619d54186394ccaa49c06ea5c28133e0e838e3df8e594378659dc739e7ddc03dfa70427a173ac062a8c9c7ff391b2885a9cfd8ff699fb6165a36#npm:0.460.0"],\
